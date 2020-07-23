@@ -28,3 +28,6 @@
 
 ## You can download the app from this barcode
 ![](Apk%20Barcode%20Link.gif)
+
+## Or by using this link
+http://ai2.appinventor.mit.edu/b/9m0g
