@@ -24,3 +24,7 @@
 ## Also, another output is shown when the "Click me to See the Robot!" button is clicked
 
   ![](Android%20Device%20Screenshot%202.jpg)
+
+
+## You can download the app from this barcode
+![](Apk%20Barcode%20Link.gif)
