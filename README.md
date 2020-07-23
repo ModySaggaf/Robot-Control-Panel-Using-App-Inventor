@@ -1,6 +1,6 @@
 # Robot-Control-Panel-Using-App-Inventor
 
-**Firstly, the contorol panel was designed on App Inventor website**
+## Firstly, the contorol panel was designed on App Inventor website
 
   ![](Website%20Design%20Screenshot.jpg)
 
